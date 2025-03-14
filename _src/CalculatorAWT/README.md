@@ -25,7 +25,7 @@ MyCalc is a lightweight calculator application built in Java using AWT for the g
 
 1. **Clone the Repository:**
 
-   ```bash
+```bash
    git clone <git path to this repository>
    cd _src/CalculatorAWT
 ```
