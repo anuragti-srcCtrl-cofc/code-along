@@ -36,7 +36,7 @@ Brick Breaker with Power-Ups is a JavaFX-based arcade game where players control
 
 1. **Clone the Repository:**
 
-   ```bash
+ ```bash
    git clone <path to this git repo>
    cd _src/BrickBreaker
 ```
